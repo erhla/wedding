@@ -1,0 +1,29 @@
+---
+title: "The Details"
+image: "IMG_0169.jpg"
+links:
+  - label: Home
+    url: "https://ericandlisa2022.com"
+  - label: RSVP (PH)
+    url: "https://google.com/"
+  - label: Details
+    url: "https://ericandlisa2022.com/details"
+  - label: Registry (PH)
+    url: "https://google.com/"
+output:
+  postcards::trestles
+---
+ 
+# June 25th, 2022
+ 
+## Ceremony
+
+4:30pm at Midwest Buddhist Temple, 435 W Menomonee St, Chicago, IL 60614
+
+## Reception
+
+6:00pm at RPM Seafood, 317 N Clark St, Chicago, IL 60654
+
+## The party continues...
+
+9:00pm on Chicago's First Lady

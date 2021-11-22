@@ -1,11 +1,13 @@
 ---
 title: "Lisa and Eric's Wedding"
-image: "IMG_1497.jpg"
+image: "IMG_0127.jpeg"
 links:
+  - label: Home
+    url: "https://www.ericandlisa2022.com"
   - label: RSVP (PH)
     url: "https://google.com/"
-  - label: Details (PH)
-    url: "https://google.com/"
+  - label: Details
+    url: "https://www.ericandlisa2022.com/details"
   - label: Registry (PH)
     url: "https://google.com/"
 output:
