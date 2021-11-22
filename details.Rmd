@@ -3,11 +3,11 @@ title: "The Details"
 image: "IMG_0169.jpg"
 links:
   - label: Home
-    url: "https://ericandlisa2022.com"
+    url: "https://www.ericandlisa2022.com"
   - label: RSVP (PH)
     url: "https://google.com/"
   - label: Details
-    url: "https://ericandlisa2022.com/details"
+    url: "https://www.ericandlisa2022.com/details"
   - label: Registry (PH)
     url: "https://google.com/"
 output:
