@@ -22,7 +22,7 @@ output:
 
 4:30pm at Midwest Buddhist Temple, 435 W Menomonee St, Chicago, IL 60614
 
-## Reception
+## Dinner
 
 <img src="https://s3.amazonaws.com/bucket.leye.co/uploads/2009/01/RPMSeafood_RiverView_AliciaFierro_AesthiicaPhotography.jpg" alt="MBT" width="400"/>
 
@@ -30,4 +30,4 @@ output:
 
 ## The party continues...
 
-9:00pm on Chicago's First Lady
+9:00pm on Post Dinner Reception TBD
