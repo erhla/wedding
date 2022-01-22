@@ -1,0 +1,18 @@
+---
+title: "Hotel"
+image: "IMG_0127.jpeg"
+links:
+  - label: Home
+    url: "https://www.ericandlisa2022.com"
+  - label: Details
+    url: "https://www.ericandlisa2022.com/details"
+  - label: Hotel
+    url: "https://www.ericandlisa2022.com/hotel"
+output:
+  postcards::trestles
+---
+
+Our hotel is the Westin Chicago River North, 320 N Dearborn St.
+
+Our room block can be [accessed here.](https://book.passkey.com/gt/218383305?gtid=f5049947d13ca64464ae0e1f021be4c4) Please make your reservation before May 27th. 
+

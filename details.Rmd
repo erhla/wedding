@@ -6,10 +6,12 @@ links:
     url: "https://www.ericandlisa2022.com"
   - label: Details
     url: "https://www.ericandlisa2022.com/details"
+  - label: Hotel
+    url: "https://www.ericandlisa2022.com/hotel"
 output:
   postcards::trestles
 ---
- 
+
 # June 25th, 2022
  
 ## Ceremony
