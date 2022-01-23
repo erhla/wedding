@@ -8,6 +8,10 @@ links:
     url: "https://www.ericandlisa2022.com/details"
   - label: Hotel
     url: "https://www.ericandlisa2022.com/hotel"
+  - label: RSVP
+    url: "https://withjoy.com/eric-and-lisa-ckyrtvgkb001z068ym8qhx9w2/rsvp?referrer=rsvpButton"
+  - label: Registry
+    url: "https://www.ericandlisa2022.com/registry"
 output:
   postcards::trestles
 ---

@@ -8,10 +8,20 @@ links:
     url: "https://www.ericandlisa2022.com/details"
   - label: Hotel
     url: "https://www.ericandlisa2022.com/hotel"
+  - label: RSVP
+    url: "https://withjoy.com/eric-and-lisa-ckyrtvgkb001z068ym8qhx9w2/rsvp?referrer=rsvpButton"
+  - label: Registry
+    url: "https://www.ericandlisa2022.com/registry"
 output:
   postcards::trestles
 ---
  
-We are looking forward to seeing you in 2022. More information to come in January 2022.
+We hope to celebrate with you in 2022! Since we are in an ongoing pandemic, we recognize a gathering of any size is not without risk and we have a few asks to try to make this as save an event as possible.
 
-“To love. To be loved. To never forget your own insignificance. To never get used to the unspeakable violence and the vulgar disparity of life around you. To seek joy in the saddest places. To pursue beauty to its lair. To never simplify what is complicated or complicate what is simple. To respect strength, never power. Above all, to watch. To try and understand. To never look away. And never, never to forget.” -*Arundhati Roy*
+1.	In accordance with public health guidelines, all guests must be fully vaccinated and boosted. Guests must bring with them proof of vaccination along with a photo ID to access the venue.
+2.	We are asking all guests to take a test on Friday, June 24th. 
+3.	When inside and not eating or drinking, we ask that guests wear a mask. 
+4.	We very much apologize in advance, but we might need to reduce our guestlist at the last minute. We strongly encourage you to book refundable travel accommodations. 
+5.	If anything changes, we will update this website and follow up by email. Please check back and provide an email you check regularly with your RSVP.
+
+If you have any questions or feedback, please email us at [ericandlisa22@gmail.com](mailto:ericandlisa22@gmail.com).

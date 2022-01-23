@@ -1,0 +1,27 @@
+---
+title: "Registry"
+image: "IMG_0127.jpeg"
+links:
+  - label: Home
+    url: "https://www.ericandlisa2022.com"
+  - label: Details
+    url: "https://www.ericandlisa2022.com/details"
+  - label: Hotel
+    url: "https://www.ericandlisa2022.com/hotel"
+  - label: RSVP
+    url: "https://withjoy.com/eric-and-lisa-ckyrtvgkb001z068ym8qhx9w2/rsvp?referrer=rsvpButton"
+  - label: Registry
+    url: "https://www.ericandlisa2022.com/registry"
+output:
+  postcards::trestles
+---
+
+
+
+## We are registered at
+
+<div class="mx-auto text-center">
+<div class="p-2">
+<ul class="list-inline"><li class="list-inline-item"><a href="https://www.crateandbarrel.com/gift-registry/lisa-doi-and-eric-langowski/r6444794"><button class="btn btn-outline-dark mb-2" type="button">Crate & Barrel</button></a></li><li class="list-inline-item"><a href="https://www.zola.com/registry/lisaandericjune25"><button class="btn btn-outline-dark mb-2" type="button">Zola</button></a></li></ul>
+</div>
+</div>
