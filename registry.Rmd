@@ -22,6 +22,8 @@ output:
 
 <div class="mx-auto text-center">
 <div class="p-2">
-<ul class="list-inline"><li class="list-inline-item"><a href="https://www.crateandbarrel.com/gift-registry/lisa-doi-and-eric-langowski/r6444794"><button class="btn btn-outline-dark mb-2" type="button">Crate & Barrel</button></a></li><li class="list-inline-item"><a href="https://www.zola.com/registry/lisaandericjune25"><button class="btn btn-outline-dark mb-2" type="button">Zola</button></a></li></ul>
+<ul class="list-inline">
+<li class="list-inline-item"><a href="https://www.zola.com/registry/lisaandericjune25"><button class="btn btn-outline-dark mb-2" type="button">Zola</button></a></li></ul>
+<li class="list-inline-item"><a href="https://www.crateandbarrel.com/gift-registry/lisa-doi-and-eric-langowski/r6444794"><button class="btn btn-outline-dark mb-2" type="button">Crate & Barrel</button></a></li>
 </div>
 </div>
